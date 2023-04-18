@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        Pretendard: ['Pretendard', 'sans-serif'],
+        'Pretendard': ['Pretendard', 'sans-serif'],
         'Pretendard-Black': ['Pretendard-Black', 'sans-serif'],
         'Pretendard-Bold': ['Pretendard-Bold', 'sans-serif'],
         'Pretendard-ExtraBold': ['Pretendard-ExtraBold', 'sans-serif'],
