@@ -1,6 +1,4 @@
 import React from 'react'
-// import DropdownMenu from '../../../../components/HeadlessUi/DropdownMenu'
-// import ListBox from '../../../../components/HeadlessUi/ListBox'
 
 const SearchBar = () => {
   return (
