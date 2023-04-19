@@ -1,10 +1,27 @@
-import React from 'react'
-import LoginPage from './components/LoginPage'
+import React, { useState } from 'react';
+import LoginPage from './components/LoginPage';
+import { LOGIN_DATA, SOCIAL_IMG } from './components/LOGIN_DATA';
 
-const index = () => {
+const Index = () => {
+  const [inputValues, setInputValues] = useState({
+    email: '',
+    pwd: '',
+  });
+
+  const handleValues = (e) => {
+    const { name, value } = e.target;
+    setInputValues({ ...inputValues, [name]: value });
+  };
+
   return (
-    <LoginPage />
-  )
-}
+    <div>
+      <LoginPage
+        data={LOGIN_DATA}
+        socialLoginImg={SOCIAL_IMG}
+        handleValues={handleValues}
+      />
+    </div>
+  );
+};
 
-export default index
+export default Index;
