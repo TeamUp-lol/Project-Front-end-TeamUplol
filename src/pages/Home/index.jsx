@@ -3,7 +3,7 @@ import HomePage from './components/HomePage'
 
 const index = () => {
   return (
-    <div className='text-4xl bg-amber-100'>
+    <div>
       <HomePage />
     </div>
   )

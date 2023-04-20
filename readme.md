@@ -11,3 +11,4 @@ TEAMUP-LOL (CLAN.GG Project)
 tailwind
 react-router-dom
 axios
+@headlessui/react
