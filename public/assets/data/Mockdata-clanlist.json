@@ -1,0 +1,32 @@
+[
+  {
+    "clan_id": 1,
+    "clan_name": "GM1" ,
+    "clan_description": "안녕하세요 저희는 GM길드입니다1" ,
+    "clan_thumbanail": "https://indieground.kr/fileFolder/eb42f8a2-2d02-4232-bf69-3104872475ea_jpg"
+  },
+  {
+    "clan_id": 2,
+    "clan_name": "GM2" ,
+    "clan_description": "안녕하세요 저희는 GM길드입니다2" ,
+    "clan_thumbanail": "https://indieground.kr/fileFolder/eb42f8a2-2d02-4232-bf69-3104872475ea_jpg"
+  },
+  {
+    "clan_id": 3,
+    "clan_name": "GM3" ,
+    "clan_description": "안녕하세요 저희는 GM길드입니다3" ,
+    "clan_thumbanail": "https://indieground.kr/fileFolder/eb42f8a2-2d02-4232-bf69-3104872475ea_jpg"
+  },
+  {
+    "clan_id": 4,
+    "clan_name": "GM4" ,
+    "clan_description": "안녕하세요 저희는 GM길드입니다4" ,
+    "clan_thumbanail": "https://indieground.kr/fileFolder/eb42f8a2-2d02-4232-bf69-3104872475ea_jpg"
+  },
+  {
+    "clan_id": 5,
+    "clan_name": "GM5" ,
+    "clan_description": "안녕하세요 저희는 GM길드입니다5" ,
+    "clan_thumbanail": "https://indieground.kr/fileFolder/eb42f8a2-2d02-4232-bf69-3104872475ea_jpg"
+  }
+]
