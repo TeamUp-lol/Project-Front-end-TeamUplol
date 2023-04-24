@@ -1,0 +1,36 @@
+export const SIGN_UP_DATA = [
+  {
+    id: 1,
+    title: '이메일',
+    type: 'text',
+    name: 'email',
+    button: true,
+    validate: '중복 확인',
+    errorMsg: '유효한 형식의 이메일이 아닙니다.',
+  },
+  {
+    id: 2,
+    title: '닉네임',
+    type: 'text',
+    name: 'nickname',
+    button: true,
+    validate: '계정 연결',
+    errorMsg: '닉네임은 ㅇㅇ자 이상 00자 이하여야 합니다.',
+  },
+  {
+    id: 3,
+    title: '비밀번호',
+    type: 'password',
+    name: 'pwd',
+    button: false,
+    errorMsg: '비밀번호는 ㅇㅇ자~ㅇㅇ자, 특수문자를 포함해야 합니다.',
+  },
+  {
+    id: 4,
+    title: '비밀번호 재확인',
+    type: 'password',
+    name: 'rePwd',
+    button: false,
+    errorMsg: '비밀번호가 일치하지 않습니다.',
+  },
+];
